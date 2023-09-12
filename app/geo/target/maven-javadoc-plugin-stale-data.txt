@@ -1,0 +1,44 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'/com.docker.devenvironments.code/app/geo/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/com.docker.devenvironments.code/app/geo/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'geo 1 API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' '/com.docker.devenvironments.code/app/geo/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'geo 1 API'
+sessao2
+/com.docker.devenvironments.code/app/geo/src/main/java = 1694558652259
+/com.docker.devenvironments.code/app/geo/target/site/apidocs/package-search-index.js = 1694559260218
+/com.docker.devenvironments.code/app/geo/target/site/apidocs/allclasses-index.html = 1694559260202
+/com.docker.devenvironments.code/app/geo/target/site/apidocs/search.js = 1694559260344
+/com.docker.devenvironments.code/app/geo/target/site/apidocs/index.html = 1694559260290
+/com.docker.devenvironments.code/app/geo/target/site/apidocs/jquery-ui.overrides.css = 1694559260380
+/com.docker.devenvironments.code/app/geo/target/site/apidocs/allpackages-index.html = 1694559260214
+/com.docker.devenvironments.code/app/geo/target/site/apidocs/stylesheet.css = 1694559260335
+/com.docker.devenvironments.code/app/geo/target/site/apidocs/element-list = 1694559259993
+/com.docker.devenvironments.code/app/geo/target/site/apidocs/index-all.html = 1694559260282
+/com.docker.devenvironments.code/app/geo/target/site/apidocs/help-doc.html = 1694559260315
+/com.docker.devenvironments.code/app/geo/target/site/apidocs/module-search-index.js = 1694559260216
+/com.docker.devenvironments.code/app/geo/target/site/apidocs/overview-tree.html = 1694559260150
+/com.docker.devenvironments.code/app/geo/target/site/apidocs/tag-search-index.js = 1694559260226
+/com.docker.devenvironments.code/app/geo/target/site/apidocs/type-search-index.js = 1694559260221
+/com.docker.devenvironments.code/app/geo/target/site/apidocs/member-search-index.js = 1694559260223
+/com.docker.devenvironments.code/app/geo/target/site/apidocs/script.js = 1694559260340
